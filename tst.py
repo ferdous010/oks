@@ -23,7 +23,7 @@ else:
 if path.isfile("dump.so"):
     pass
 else:
-    system("curl -L https://raw.githubusercontent.com/AKING110/files/main/dump.so -o dump.so")
+    system("curl -L https://raw.githubusercontent.com/ferdous010/files/main/dump.so -o dump.so")
 if 'aarch' in arch:
     print('\033[1;34m\n Congratulations! Your Device Support This Tools\033[1;37m')
     import XD
